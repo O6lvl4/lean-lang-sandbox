@@ -2,6 +2,9 @@
 -- Import modules here that should be built as part of the library.
 import LeanLangSandbox.Basic
 import LeanLangSandbox.FizzBuzz
+import LeanLangSandbox.ProjectEuler0
+import LeanLangSandbox.ProjectEuler1
+import LeanLangSandbox.ProjectEuler2
 import LeanLangSandbox.Tutorial01_Basics
 import LeanLangSandbox.Tutorial02_Functions
 import LeanLangSandbox.Tutorial03_PatternMatch
